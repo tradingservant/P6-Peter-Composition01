@@ -1,0 +1,25 @@
+{
+  "name": "Peter · Jason’s Wish",
+  "short_name": "Jason’s Wish",
+  "description": "Primary 6 composition practice: Jason’s Wish, with a mobile phone ending. Vocabulary, grammar, story order, dialogue, and a writing check.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0b5cab",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
